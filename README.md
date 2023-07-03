@@ -52,10 +52,8 @@ In this project, I have used existing Deep Learning models that detect faces and
 
 
 ## Demo 
-
-
 1. You can view a demo of this project here : https://youtu.be/dhH9OXlo34E
-2. The Project Demo Can Also Be Accessed Through Drive Using:https://drive.google.com/file/d/1iyaNwaMJrpBo3LTv2JgQMPI9Tt7rRjfU/view?usp=sharing 
+2. The Project Demo Can Also Be Accessed Through Drive Using:https://drive.google.com/file/d/1iyaNwaMJrpBo3LTv2JgQMPI9Tt7rRjfU/view?usp=sharing
 3.Link For Drive Video: https://drive.google.com/file/d/1iyaNwaMJrpBo3LTv2JgQMPI9Tt7rRjfU/view?usp=drive_link
 
 ### References
